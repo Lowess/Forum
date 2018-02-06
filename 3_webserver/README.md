@@ -14,4 +14,4 @@ vagrant ssh
    
 ### 3.2.2. Configuration du site web
   - Télécharger le code sur le serveur dans `/var/www/html` en utilisant `git`
-  - Configurer `nginx` pour servir les fichiers HTML contenues dans `/var/www/html`
+  - Configurer `nginx` pour servir les fichiers HTML contenus dans `/var/www/html`
